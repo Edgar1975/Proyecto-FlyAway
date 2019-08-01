@@ -1,0 +1,49 @@
+C:\Users\Edgar Saavedra\source\repos\GlassCarLaguna\GlassCarLaguna\bin\Debug\GlassCarLaguna.exe.config
+C:\Users\Edgar Saavedra\source\repos\GlassCarLaguna\GlassCarLaguna\bin\Debug\GlassCarLaguna.exe
+C:\Users\Edgar Saavedra\source\repos\GlassCarLaguna\GlassCarLaguna\bin\Debug\GlassCarLaguna.pdb
+C:\Users\Edgar Saavedra\source\repos\GlassCarLaguna\GlassCarLaguna\obj\Debug\GlassCarLaguna.csprojResolveAssemblyReference.cache
+C:\Users\Edgar Saavedra\source\repos\GlassCarLaguna\GlassCarLaguna\obj\Debug\GlassCarLaguna.Properties.Resources.resources
+C:\Users\Edgar Saavedra\source\repos\GlassCarLaguna\GlassCarLaguna\obj\Debug\GlassCarLaguna.csproj.GenerateResource.Cache
+C:\Users\Edgar Saavedra\source\repos\GlassCarLaguna\GlassCarLaguna\obj\Debug\GlassCarLaguna.csproj.CoreCompileInputs.cache
+C:\Users\Edgar Saavedra\source\repos\GlassCarLaguna\GlassCarLaguna\obj\Debug\GlassCarLaguna.exe
+C:\Users\Edgar Saavedra\source\repos\GlassCarLaguna\GlassCarLaguna\obj\Debug\GlassCarLaguna.pdb
+C:\Users\Edgar Saavedra\source\repos\GlassCarLaguna\GlassCarLaguna\obj\Debug\GlassCarLaguna.Form2.resources
+C:\Users\Edgar Saavedra\source\repos\GlassCarLaguna\GlassCarLaguna\obj\Debug\GlassCarLaguna.Form3.resources
+C:\Users\Edgar Saavedra\source\repos\GlassCarLaguna\GlassCarLaguna\obj\Debug\GlassCarLaguna.Form4.resources
+C:\Users\Edgar Saavedra\source\repos\GlassCarLaguna\GlassCarLaguna\obj\Debug\GlassCarLaguna.csproj.ResolveComReference.cache
+C:\Users\Edgar Saavedra\source\repos\GlassCarLaguna\GlassCarLaguna\obj\Debug\GlassCarLaguna.Form5.resources
+C:\Users\Edgar Saavedra\source\repos\GlassCarLaguna\GlassCarLaguna\obj\Debug\GlassCarLaguna.Form7.resources
+C:\Users\Edgar Saavedra\source\repos\GlassCarLaguna\GlassCarLaguna\obj\Debug\GlassCarLaguna.Form6.resources
+C:\Users\Edgar Saavedra\source\repos\GlassCarLaguna\GlassCarLaguna\obj\Debug\GlassCarLaguna.Form9.resources
+C:\Users\Edgar Saavedra\source\repos\GlassCarLaguna\GlassCarLaguna\obj\Debug\GlassCarLaguna.Cargar.resources
+C:\Users\Edgar Saavedra\Downloads\GlassCarLaguna\GlassCarLaguna\bin\Debug\GlassCarLaguna.exe.config
+C:\Users\Edgar Saavedra\Downloads\GlassCarLaguna\GlassCarLaguna\bin\Debug\GlassCarLaguna.exe
+C:\Users\Edgar Saavedra\Downloads\GlassCarLaguna\GlassCarLaguna\bin\Debug\GlassCarLaguna.pdb
+C:\Users\Edgar Saavedra\Downloads\GlassCarLaguna\GlassCarLaguna\obj\Debug\GlassCarLaguna.csprojResolveAssemblyReference.cache
+C:\Users\Edgar Saavedra\Downloads\GlassCarLaguna\GlassCarLaguna\obj\Debug\GlassCarLaguna.csproj.ResolveComReference.cache
+C:\Users\Edgar Saavedra\Downloads\GlassCarLaguna\GlassCarLaguna\obj\Debug\GlassCarLaguna.Cargar.resources
+C:\Users\Edgar Saavedra\Downloads\GlassCarLaguna\GlassCarLaguna\obj\Debug\GlassCarLaguna.Form7.resources
+C:\Users\Edgar Saavedra\Downloads\GlassCarLaguna\GlassCarLaguna\obj\Debug\GlassCarLaguna.Form6.resources
+C:\Users\Edgar Saavedra\Downloads\GlassCarLaguna\GlassCarLaguna\obj\Debug\GlassCarLaguna.Form3.resources
+C:\Users\Edgar Saavedra\Downloads\GlassCarLaguna\GlassCarLaguna\obj\Debug\GlassCarLaguna.Form4.resources
+C:\Users\Edgar Saavedra\Downloads\GlassCarLaguna\GlassCarLaguna\obj\Debug\GlassCarLaguna.Form5.resources
+C:\Users\Edgar Saavedra\Downloads\GlassCarLaguna\GlassCarLaguna\obj\Debug\GlassCarLaguna.Properties.Resources.resources
+C:\Users\Edgar Saavedra\Downloads\GlassCarLaguna\GlassCarLaguna\obj\Debug\GlassCarLaguna.csproj.GenerateResource.Cache
+C:\Users\Edgar Saavedra\Downloads\GlassCarLaguna\GlassCarLaguna\obj\Debug\GlassCarLaguna.csproj.CoreCompileInputs.cache
+C:\Users\Edgar Saavedra\Downloads\GlassCarLaguna\GlassCarLaguna\obj\Debug\GlassCarLaguna.exe
+C:\Users\Edgar Saavedra\Downloads\GlassCarLaguna\GlassCarLaguna\obj\Debug\GlassCarLaguna.pdb
+C:\Users\Edgar Saavedra\Downloads\GlassCarLaguna\GlassCarLaguna\obj\Debug\GlassCarLaguna.FormMenu.resources
+C:\Users\Edgar Saavedra\source\repos\Fly Away - UPGOP\GlassCarLaguna\bin\Debug\GlassCarLaguna.exe.config
+C:\Users\Edgar Saavedra\source\repos\Fly Away - UPGOP\GlassCarLaguna\bin\Debug\GlassCarLaguna.exe
+C:\Users\Edgar Saavedra\source\repos\Fly Away - UPGOP\GlassCarLaguna\bin\Debug\GlassCarLaguna.pdb
+C:\Users\Edgar Saavedra\source\repos\Fly Away - UPGOP\GlassCarLaguna\obj\Debug\GlassCarLaguna.csproj.ResolveComReference.cache
+C:\Users\Edgar Saavedra\source\repos\Fly Away - UPGOP\GlassCarLaguna\obj\Debug\GlassCarLaguna.Cargar.resources
+C:\Users\Edgar Saavedra\source\repos\Fly Away - UPGOP\GlassCarLaguna\obj\Debug\GlassCarLaguna.Form5.resources
+C:\Users\Edgar Saavedra\source\repos\Fly Away - UPGOP\GlassCarLaguna\obj\Debug\GlassCarLaguna.FormMenu.resources
+C:\Users\Edgar Saavedra\source\repos\Fly Away - UPGOP\GlassCarLaguna\obj\Debug\GlassCarLaguna.FormAdministrador.resources
+C:\Users\Edgar Saavedra\source\repos\Fly Away - UPGOP\GlassCarLaguna\obj\Debug\GlassCarLaguna.Properties.Resources.resources
+C:\Users\Edgar Saavedra\source\repos\Fly Away - UPGOP\GlassCarLaguna\obj\Debug\GlassCarLaguna.csproj.GenerateResource.Cache
+C:\Users\Edgar Saavedra\source\repos\Fly Away - UPGOP\GlassCarLaguna\obj\Debug\GlassCarLaguna.csproj.CoreCompileInputs.cache
+C:\Users\Edgar Saavedra\source\repos\Fly Away - UPGOP\GlassCarLaguna\obj\Debug\GlassCarLaguna.exe
+C:\Users\Edgar Saavedra\source\repos\Fly Away - UPGOP\GlassCarLaguna\obj\Debug\GlassCarLaguna.pdb
+C:\Users\Edgar Saavedra\source\repos\Fly Away - UPGOP\GlassCarLaguna\obj\Debug\GlassCarLaguna.csprojResolveAssemblyReference.cache
